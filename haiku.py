@@ -3,5 +3,3 @@ class haiku_interface():
     self.bIsHaiku = False
   pass
 
-class haiku_impl(haiku_interface):
-  pass
